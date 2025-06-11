@@ -1,3 +1,7 @@
+- [Jekyll](https://jekyllrb.com/)
+- [Meet Jekyll - The Static Site Generator](https://www.youtube.com/watch?v=F8iOU1ci19Q)
+
+
 dbyll
 =====
 
